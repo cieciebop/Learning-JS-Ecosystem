@@ -1,0 +1,28 @@
+{
+  "name": "learning-js-ecosystem",
+  "version": "1.0.0",
+  "description": "First packages refactory js-ecosystem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cieciebop/Learning-JS-Ecosystem.git"
+  },
+  "author": "dz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cieciebop/Learning-JS-Ecosystem/issues"
+  },
+  "homepage": "https://github.com/cieciebop/Learning-JS-Ecosystem#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-validator": "^6.1.1",
+    "sequelize": "^5.11.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "mocha": "^6.2.0"
+  }
+}
